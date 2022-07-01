@@ -189,11 +189,16 @@ Vậy là bạn đã hoàn thành việc import dữ liệu từ file csv vào D
 
 Sau khi đã tạo và thêm một số dữ liệu mẫu vào Database. Bạn hãy xác định các truy vấn nghiệp vụ của hệ thống, một số ví dụ như:
 
-Có bao nhiêu người là Nữ và làm việc nhiều hơn 30 tiếng / tuần ?
-Có bao nhiêu người ở Mỹ có mức thu nhập > 50K
-Tính tổng số dư tài khoản của những người đang ở Mỹ.
-Tính tổng số giờ làm việc một tuần của những người có mức thu nhập <= 50K
-Tìm những người có tổng số tiền trong tài khoản > 100000 và có số giờ làm việc hàng tuần < 55.
+4.1 Có bao nhiêu người là Nữ và làm việc nhiều hơn 30 tiếng / tuần ?
+	
+4.2 Có bao nhiêu người ở Mỹ có mức thu nhập > 50K
+	
+4.3 Tính tổng số dư tài khoản của những người đang ở Mỹ.
+	
+4.4 Tính tổng số giờ làm việc một tuần của những người có mức thu nhập <= 50K
+									
+4.5 Tìm những người có tổng số tiền trong tài khoản > 100000 và có số giờ làm việc hàng tuần < 55.
+											      
 Bạn cần liệt kê tối thiểu là 5 truy vấn nghiệp vụ như vậy. Sau đó hãy viết các câu lệnh để thực hiện truy vấn đó.
 
 
